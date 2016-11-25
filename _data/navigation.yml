@@ -8,3 +8,5 @@ main:
     url: /post-with-images/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "Photos"
+    url: /hugo/
